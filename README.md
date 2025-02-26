@@ -8,7 +8,6 @@ Aspiring Software Engineer currently pursuing a degree in Software Engineering. 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadalikhalid101@gmail.com](mailto:muhammadalikhalid101@gmail.com)
-* 🧠  I'm learning MERN stack
 * 🤝  I'm open to collaborating on ecommerce and management projects
 * ⚡  I love to code, travel and read books
 
