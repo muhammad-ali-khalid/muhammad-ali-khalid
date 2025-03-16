@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Aspiring Software Engineer currently pursuing a degree in Software Engineering. I am passionate about building secure, efficient, and user-friendly web applications. Eager to contribute my skills and knowledge to innovative projects and continuously learn in the dynamic tech industry.
+I am passionate about building secure, efficient, and user-friendly web applications. Eager to contribute my skills and knowledge to innovative projects and continuously learn in the dynamic tech industry.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadalikhalid101@gmail.com](mailto:muhammadalikhalid101@gmail.com)
